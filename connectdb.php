@@ -1,7 +1,7 @@
 <?php
 		$hostname = "localhost";
 		$user = "root";
-		$pass = "";
+		$pass = "123@123a";
 		$db = "tunesource";
 
 		$con = mysqli_connect($hostname,$user,$pass,$db);
