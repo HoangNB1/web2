@@ -147,9 +147,9 @@
 
                 
                 <?php
-		$hostname = "localhost";
+		$hostname = "34.200.32.20";
 		$user = "root";
-		$pass = "";
+		$pass = "123@123a";
 		$db = "tunesource";
 
 		$con = mysqli_connect($hostname,$user,$pass,$db);
@@ -160,8 +160,8 @@
 
 <?php
 $username = "root"; // Khai báo username
-$password = "";      // Khai báo password
-$server   = "localhost";   // Khai báo server
+$password = "123@123a";      // Khai báo password
+$server   = "34.200.32.20";   // Khai báo server
 $dbname   = "tunesource";      // Khai báo database
 
 // Kết nối database
