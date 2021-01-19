@@ -1,5 +1,5 @@
 <?php
-		$hostname = "34.200.32.20
+		$hostname = "34.200.32.20";
 		$user = "root";
 		$pass = "123@123a";
 		$db = "tunesource";
