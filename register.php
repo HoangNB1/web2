@@ -135,7 +135,7 @@
 </form>
 
 <?php
-$con = new mysqli('34.200.32.20', 'root', '123@123a', 'tunesource');
+$con = new mysqli('34.230.84.57', 'root', '123@123a', 'tunesource');
 if (!$con) {
     echo "ket noi that bai";
 }
