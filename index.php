@@ -159,7 +159,7 @@
 ?>
 
 <?php
-$username = "ec2-user"; // Khai báo username
+$username = "root"; // Khai báo username
 $password = "123@123a";      // Khai báo password
 $server   = "3.93.188.184";   // Khai báo server
 $dbname   = "tunesource";      // Khai báo database
