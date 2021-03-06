@@ -136,7 +136,7 @@
 <?php
 $username = "root"; // Khai báo username
 $password = "123@123a";      // Khai báo password
-$server   = "34.230.84.57";   // Khai báo server
+$server   = "3.93.188.184";   // Khai báo server
 $dbname   = "tunesource";      // Khai báo database
 
 // Kết nối database
