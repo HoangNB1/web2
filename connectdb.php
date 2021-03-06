@@ -1,6 +1,6 @@
 <?php
 		$hostname = "3.93.188.184";
-		$user = "root";
+		$user = "ec2-user";
 		$pass = "123@123a";
 		$db = "tunesource";
 
