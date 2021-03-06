@@ -136,7 +136,7 @@
 <!-- end slide -->
 
 <?php
-$hostname = "34.230.84.57";
+$hostname = "3.93.188.184";
 $user = "root";
 $pass = "123@123a";
 $db = "tunesource";
